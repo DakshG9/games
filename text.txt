@@ -1,0 +1,5 @@
+Hi, this template is being used for testing code. We will use python code to figure out how many words are in this file. We will first use 'try:'
+and 'except:' to make this user friendly in case some bug happens. No more odd red messages(though it is there for the 'NameError' but there is also
+a blue syntax that is user-friendly.Then it will take this story and turn it into a list. It will count all the items in the list and "Presto!" you have the amount!
+You can paste in a story here and it will tell you haw many words it has!Alice in Wonderland has over 27,243 words! Now I am adding more words
+to this. I will show you how this changes it!
